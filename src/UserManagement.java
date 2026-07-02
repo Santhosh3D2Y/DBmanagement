@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 import java.sql.*;
 
-public class gui {
+public class UserManagement {
     public static void main(String[] args) {
         JFrame frame=new JFrame("User information management");
         frame.setLayout(null);
